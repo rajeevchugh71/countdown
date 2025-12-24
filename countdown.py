@@ -8,7 +8,7 @@ st.set_page_config(page_title="Countdown Timer", page_icon="⏳")
 # --- BACKGROUND IMAGE SETUP ---
 # Replace the link below with the "Image Address" of the specific photo you want.
 # I have put a placeholder image of a Grey Skoda Enyaq here for you.
-background_image_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Skoda_Enyaq_iV_vRS_Blue_front.jpg/1280px-Skoda_Enyaq_iV_vRS_Blue_front.jpg"
+background_image_url = "https://www.elektrischeautolease.nl/app/uploads/2022/04/2022123.png"
 
 # This little block of code injects CSS (web design styles) into the app
 # It sets the background image and forces all text to be white
