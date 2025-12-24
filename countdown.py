@@ -7,7 +7,7 @@ st.set_page_config(page_title="Countdown Timer", page_icon="⏳")
 
 # --- BACKGROUND IMAGE SETUP ---
 # Replace this with your specific Skoda Enyaq Graphite Grey image URL
-background_image_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Skoda_Enyaq_iV_vRS_Blue_front.jpg/1280px-Skoda_Enyaq_iV_vRS_Blue_front.jpg"
+background_image_url = "https://www.elektrischeautolease.nl/app/uploads/2022/04/2022123.png"
 
 st.markdown(
     f"""
